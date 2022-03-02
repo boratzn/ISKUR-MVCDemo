@@ -1,0 +1,11 @@
+D:\Bora\source\repos\MVCDemo\MVCDemo\bin\Debug\MVCDemo.exe.config
+D:\Bora\source\repos\MVCDemo\MVCDemo\bin\Debug\MVCDemo.exe
+D:\Bora\source\repos\MVCDemo\MVCDemo\bin\Debug\MVCDemo.pdb
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csproj.AssemblyReference.cache
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csproj.SuggestedBindingRedirects.cache
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.Properties.Resources.resources
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.Form1.resources
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csproj.GenerateResource.cache
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.csproj.CoreCompileInputs.cache
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.exe
+D:\Bora\source\repos\MVCDemo\MVCDemo\obj\Debug\MVCDemo.pdb
